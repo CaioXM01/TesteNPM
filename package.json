@@ -1,0 +1,23 @@
+{
+  "name": "teste-npm",
+  "version": "1.0.0",
+  "description": "Teste do pacote npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioXM01/TesteNPM.git"
+  },
+  "keywords": [
+    "caio",
+    "xavier"
+  ],
+  "author": "Caio Xavier <caioxm01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaioXM01/TesteNPM/issues"
+  },
+  "homepage": "https://github.com/CaioXM01/TesteNPM#readme"
+}
